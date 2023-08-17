@@ -1,2 +1,2 @@
 # IT0425
-Intro. a la Inteligencia Artificial
+Introducción a la Inteligencia Artificial
